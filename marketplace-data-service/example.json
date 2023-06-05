@@ -1,0 +1,4837 @@
+[
+	{
+		"id": "9e180abdf1b80e59f3ff481e0cb85a61",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "loyalty-discount-rates",
+		"title": "Loyalty Discount Rates",
+		"version": "1.0.0",
+		"productId": "5a96e5dbe4b02780f0051509",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a96e5dbe4b02780f0051509",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "8852da7c6ecf221403bd6090e3a1e213",
+		"partitionKey": "Support Functions",
+		"name": "combined-party-and-party-identifiers",
+		"title": "Combined Party and Party Identifiers",
+		"version": "V1.0",
+		"productId": "5a689cfee4b0f40ede9ccc40",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a689cfee4b0f40ede9ccc40",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "2165bd70e0a065c7b4f9858258dc6720",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-evidence",
+		"title": "Customer Evidence",
+		"version": "1.0.0",
+		"productId": "613a32d3e4b0c7f71c71ec23",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/613a32d3e4b0c7f71c71ec23",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "0e0dfacae9d4e3ee7f2ef50aeb53735c",
+		"partitionKey": "Payments",
+		"name": "customer-paperless",
+		"title": "Customer Paperless",
+		"version": "1.0.0",
+		"productId": "6271009ee4b097f2a0bf19a3",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6271009ee4b097f2a0bf19a3",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1ac7f1be171235594c68a5722b95db47",
+		"partitionKey": "Risks",
+		"name": "party-advanced-search",
+		"title": "Party Advanced Search",
+		"version": "1.0.0",
+		"productId": "5a65d8d9e4b0f40ede9ca63d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a65d8d9e4b0f40ede9ca63d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "6b81680b5f754835e56a349d9794790a",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "security-recording-and-validation",
+		"title": "Security Recording and Validation",
+		"version": "1.0.0",
+		"productId": "5a6728f3e4b0f483b3d2ea18",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a6728f3e4b0f483b3d2ea18",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "eaf063d31f0568dddef41ef3d34bbb39",
+		"partitionKey": "Support Functions",
+		"name": "party-product-holdings",
+		"title": "Party Product Holdings",
+		"version": "1.0.0",
+		"productId": "5a709ad7e4b0f483b3d30d56",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a709ad7e4b0f483b3d30d56",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1576979476dbb8fb35536eb990efc5b7",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-individual",
+		"title": "Customer Individual",
+		"version": "1.0.0",
+		"productId": "5b93c3e0e4b0bd827875dd7a",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5b93c3e0e4b0bd827875dd7a",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "b86d982af0280fd9c14ce9837ce39898",
+		"partitionKey": "Support Functions",
+		"name": "party",
+		"title": "Party",
+		"version": "1.0.0",
+		"productId": "5a9d3e92e4b0f40ede9dc5f7",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5a9d3e92e4b0f40ede9dc5f7",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "3bc79c975cf496d1f2abde4eac534358",
+		"partitionKey": "Support Functions",
+		"name": "appsign-service-product",
+		"title": "Appsign Service Product",
+		"version": "1.2.SIT",
+		"productId": "626bc549e4b097f2a09fc4e6",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/626bc549e4b097f2a09fc4e6",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1002b380de573bbb7ef8d015dfdac5b4",
+		"partitionKey": "Customer",
+		"name": "customer-galaxy-specific-product",
+		"title": "Customer Galaxy Specific Product",
+		"version": "V1.2.2",
+		"productId": "5aeaff4fe4b02780f0081765",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5aeaff4fe4b02780f0081765",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Customer"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "9622bc93b38314a7ae82adc0cfdc33c2",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "service-needs",
+		"title": "Service Needs",
+		"version": "1.0.0",
+		"productId": "5c4b2282e4b0d44b44b212e9",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5c4b2282e4b0d44b44b212e9",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "8ac538e7cdac8561b25091f43abf161e",
+		"partitionKey": "Support Functions",
+		"name": "customer-party",
+		"title": "Customer Party",
+		"version": "2.0.0",
+		"productId": "5cb62744e4b0beb3adc7d7fd",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5cb62744e4b0beb3adc7d7fd",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "27fb06afa022624edffe0e757a49ffa3",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "customer-party-agreements",
+		"title": "Customer Party Agreements",
+		"version": "1.0.0",
+		"productId": "5bdce424e4b015562043a52a",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5bdce424e4b015562043a52a",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "27881b103938b466a67157f7bee94ec0",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.1.0",
+		"productId": "5bca1adde4b09ee8a9910022",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5bca1adde4b09ee8a9910022",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "d28a252d5663fee5c26f5e96ca426c54",
+		"partitionKey": "Data & Analytics",
+		"name": "cmtest",
+		"title": "CMTest",
+		"version": "1.0.0",
+		"productId": "5c124615e4b0b08154c26e90",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5c124615e4b0b08154c26e90",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "f4c7d4fbcb3a4a360230a0015a02b2cf",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-consent-preferences",
+		"title": "Customer Consent Preferences API",
+		"version": "1.0.1",
+		"productId": "5c06a9f9e4b00f100b7059d3",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5c06a9f9e4b00f100b7059d3",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1632e0e8e3c0893fe9c428dc3a16c453",
+		"partitionKey": "Payments",
+		"name": "auth-code-api",
+		"title": "AUTH Code Product",
+		"version": "1.0.0",
+		"productId": "5ce81d5ee4b0beb3adcc905d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ce81d5ee4b0beb3adcc905d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "6d863b5c63a0ab9b4f25f80204fe3ae4",
+		"partitionKey": "Payments",
+		"name": "bilateral-balance-enterprise-product",
+		"title": "Lloyds Bilateral Balance Enterprise Product",
+		"version": "2.0.0",
+		"productId": "5ee20bfee4b0cab9278707e4",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ee20bfee4b0cab9278707e4",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1e385ad97ee207d840088f9a10a93d5a",
+		"partitionKey": "Data & Analytics",
+		"name": "bilateral-account-enterprise-product",
+		"title": "Lloyds Bilateral Account Enterprise Product",
+		"version": "2.0.0",
+		"productId": "5ee20c11e4b0cab927870939",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ee20c11e4b0cab927870939",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "84ea03c7385e03249d935922d69e203d",
+		"partitionKey": "Shared Product",
+		"name": "bilateral-transaction-enterprise-product",
+		"title": "Lloyds Bilateral Transaction Enterprise Product",
+		"version": "2.0.0",
+		"productId": "5ee20c25e4b0cab927870a90",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ee20c25e4b0cab927870a90",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "d0ad1c68d802cf7b07c2677e20c8dd09",
+		"partitionKey": "Finance",
+		"name": "info-enterprise-internal-gateway-product",
+		"title": "info-enterprise-internal-gateway-product",
+		"version": "1.0.0",
+		"productId": "5ccc3a53e4b03193247369a9",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ccc3a53e4b03193247369a9",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "4307895e5f771794ce11ba0014f6af73",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "info-enterprise-internal-gateway-product",
+		"title": "info-enterprise-internal-gateway-product",
+		"version": "1.0.0",
+		"productId": "5ccc3a53e4b03193247369a9",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ccc3a53e4b03193247369a9",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "6f1d5b7f6a6402e010c2ebadff90eb30",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-communication-preference",
+		"title": "Customer Communication preference",
+		"version": "2.0.0",
+		"productId": "6266badbe4b097f2a07f732b",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6266badbe4b097f2a07f732b",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "29a5f7145051411e7ffd4d92ec6c9847",
+		"partitionKey": "Customer",
+		"name": "confirmation-of-payee-audit-search-api-product",
+		"title": "Confirmation of Payee Audit Search API product",
+		"version": "1.0.0",
+		"productId": "5e205f89e4b0cab927730be4",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5e205f89e4b0cab927730be4",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Customer"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "6f18cde0407255f074ffc42046f4c07b",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.1.1",
+		"productId": "5d2649aee4b0beb3add86bd0",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d2649aee4b0beb3add86bd0",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "9ba3e87fe7c54823d9931e27f8188f11",
+		"partitionKey": "Data & Analytics",
+		"name": "venafi-certificate-management",
+		"title": "Venafi Certificate Management",
+		"version": "1.0.0",
+		"productId": "5cf8c4f1e4b03193247eb88c",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5cf8c4f1e4b03193247eb88c",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "ef81cf795b21eb723f0d114618e2b9c1",
+		"partitionKey": "Finance",
+		"name": "venafi-certificate-management",
+		"title": "Venafi Certificate Management",
+		"version": "1.0.0",
+		"productId": "5cf8c4f1e4b03193247eb88c",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5cf8c4f1e4b03193247eb88c",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "5b3795d4a85075253caec7718a758be0",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.2.0",
+		"productId": "5ced43b4e4b031932476c2ec",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ced43b4e4b031932476c2ec",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "64a9b2da0eda2a7b58aca4e6c406815d",
+		"partitionKey": "Finance",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.2.0",
+		"productId": "5ced43b4e4b031932476c2ec",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ced43b4e4b031932476c2ec",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "f80c3353e9f86a71fb83ec46c83705e7",
+		"partitionKey": "Risks",
+		"name": "payment-access-services-international-payment-product",
+		"title": "Payment Access Services - International Payment Product",
+		"version": "1.0.1",
+		"productId": "5d285512e4b0beb3add8b285",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d285512e4b0beb3add8b285",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "bbccad15e24a91d3b4d1306b329a1faa",
+		"partitionKey": "Customer",
+		"name": "sca-dre-api",
+		"title": "SCA-DRE API",
+		"version": "1.0.1",
+		"productId": "5d0b73b7e4b03193248160f0",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d0b73b7e4b03193248160f0",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Customer"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "cbd33387d1e6f33f6a926d11d24d8e46",
+		"partitionKey": "Risks",
+		"name": "key-storage-enterprise-product",
+		"title": "Key Storage Enterprise Product",
+		"version": "1.0.0",
+		"productId": "5ccc46e2e4b0319324736bc8",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ccc46e2e4b0319324736bc8",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "fbbdd99222386288f93206b8c718238e",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.0.1.SIT01",
+		"productId": "5e8dce24e4b0cab9277b4619",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5e8dce24e4b0cab9277b4619",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "5e239d59857be6e29119ad3f962d96f2",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-party-relationships",
+		"title": "Customer Party Relationships",
+		"version": "1.0.0",
+		"productId": "5d1e1f9ce4b0beb3add7822e",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d1e1f9ce4b0beb3add7822e",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1ba53ac71eb018118f4fdb12ca97f449",
+		"partitionKey": "Finance",
+		"name": "customer-party-relationships",
+		"title": "Customer Party Relationships",
+		"version": "1.0.0",
+		"productId": "5d1e1f9ce4b0beb3add7822e",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d1e1f9ce4b0beb3add7822e",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "1bb39764ee13fc94c3fe44c29cbc2114",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-party-agreements",
+		"title": "Customer Party Agreements",
+		"version": "1.1.0",
+		"productId": "5d1f1af2e4b0beb3add79c93",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d1f1af2e4b0beb3add79c93",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "f4f9062326e976c3f6d3df44c14aff0f",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-party-identifiers",
+		"title": "Customer Party Identifiers",
+		"version": "1.3.0",
+		"productId": "5eac1d37e4b0cab9277d30bd",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5eac1d37e4b0cab9277d30bd",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "b065ab2d5383c9463f1e055e712aac84",
+		"partitionKey": "Finance",
+		"name": "customer-party-identifiers",
+		"title": "Customer Party Identifiers",
+		"version": "1.3.0",
+		"productId": "5eac1d37e4b0cab9277d30bd",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5eac1d37e4b0cab9277d30bd",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "972429548cf65ab13a5313130d68a6cb",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-individual",
+		"title": "Customer Individual",
+		"version": "1.0.1",
+		"productId": "5d4c42b5e4b0beb3addc0423",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d4c42b5e4b0beb3addc0423",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "a0fb40f8031b060dd1374e536cf3098e",
+		"partitionKey": "Shared Product",
+		"name": "rls-switched-out-details",
+		"title": "RLS Switched Out Details",
+		"version": "1.0.0",
+		"productId": "5d382610e4b031932485ee88",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5d382610e4b031932485ee88",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056909270
+	},
+	{
+		"id": "7e620b313a4c82a5f16cc18e82353113",
+		"partitionKey": "Shared Product",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.1.0.SIT07",
+		"productId": "5ed655d0e4b0cab927835912",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ed655d0e4b0cab927835912",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "269bf5fd578297a981735780b785c416",
+		"partitionKey": "Shared Product",
+		"name": "suspend-mandate-product",
+		"title": "Suspend Mandate Product",
+		"version": "1.0.SIT1",
+		"productId": "5da5dc18e4b0cab9276423c7",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5da5dc18e4b0cab9276423c7",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "1a0fc3d5998176388022982d1665ef62",
+		"partitionKey": "Support Functions",
+		"name": "suspend-mandate-product",
+		"title": "Suspend Mandate Product",
+		"version": "1.0.SIT0",
+		"productId": "5de6653de4b0cab9276ba083",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5de6653de4b0cab9276ba083",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "8ce2fc8b1b4e9f7b4238a40c72d80619",
+		"partitionKey": "Risks",
+		"name": "suspend-mandate-product",
+		"title": "Suspend Mandate Product",
+		"version": "1.0.SIT2",
+		"productId": "5de636abe4b03193249f3d9e",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5de636abe4b03193249f3d9e",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "eccb2d6aa9cf6024affa8d181b0b25fe",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "payment-access-services-international-reference-data-product",
+		"title": "Payment Access Services - International Reference Data Product",
+		"version": "1.0.1",
+		"productId": "5eea035de4b0cab92788bc01",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5eea035de4b0cab92788bc01",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "4e414bf8eb78b79eddb4f0e437d30f86",
+		"partitionKey": "Shared Product",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.0.CIT01",
+		"productId": "5e551271e4b0319324abe70f",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5e551271e4b0319324abe70f",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "c6490668587da1bda3794d7ca05ff7c2",
+		"partitionKey": "Data & Analytics",
+		"name": "payment-access-services-eiscd",
+		"title": "Payment Access Services - EISCD",
+		"version": "1.0.3",
+		"productId": "5e81fcbbe4b0319324af7ab2",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5e81fcbbe4b0319324af7ab2",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "89f330766c1ec673f77fea07d50a9516",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.2.2",
+		"productId": "5e85cc38e4b0cab9277b1328",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5e85cc38e4b0cab9277b1328",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "4353c4913559886c5641a30cfe508af7",
+		"partitionKey": "Finance",
+		"name": "customer-postal-address",
+		"title": "Customer Postal Address",
+		"version": "2.1.0",
+		"productId": "5f492c35e4b0d1997ea78cf4",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f492c35e4b0d1997ea78cf4",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "67bbf68fc2fcf2cdf9826b941e6d66d6",
+		"partitionKey": "Data & Analytics",
+		"name": "customer-postal-address",
+		"title": "Customer Postal Address",
+		"version": "2.1.0",
+		"productId": "5f492c35e4b0d1997ea78cf4",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f492c35e4b0d1997ea78cf4",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "ee97cf78751f852685aa46c296ef9fc5",
+		"partitionKey": "Data & Analytics",
+		"name": "ecomm-non-mon-processing-product",
+		"title": "Ecomm Non Mon Processing Product",
+		"version": "1.0.CIT01",
+		"productId": "5ec661b6e4b0cab9277e633d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ec661b6e4b0cab9277e633d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "120840d12f3ade747556bb008bc3f6ed",
+		"partitionKey": "Finance",
+		"name": "ecomm-non-mon-processing-product",
+		"title": "Ecomm Non Mon Processing Product",
+		"version": "1.0.CIT01",
+		"productId": "5ec661b6e4b0cab9277e633d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ec661b6e4b0cab9277e633d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "655a001324569fdb0b9c9f839fe57d9f",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-electronic-address",
+		"title": "Customer Electronic Address",
+		"version": "1.0.0",
+		"productId": "5ec69823e4b0cab9277e9744",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ec69823e4b0cab9277e9744",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "ccbd9f77240be3697d87f50a335ba906",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-party-notification",
+		"title": "Customer Party Notification",
+		"version": "1.0.0",
+		"productId": "5ecfb1b6e4b0cab927814834",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5ecfb1b6e4b0cab927814834",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "11d388cba5b7809a987f3f7aa383a991",
+		"partitionKey": "Data & Analytics",
+		"name": "commercial-primary-auth-mech-secure-product",
+		"title": "Commercial Primary Auth Mech Product",
+		"version": "1.0.SIT08.RC5",
+		"productId": "61435c78e4b097f299c49382",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/61435c78e4b097f299c49382",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "455fe65b12b29f2fb6b13c13aa326412",
+		"partitionKey": "Shared Product",
+		"name": "commercial-user-mgmt-secure",
+		"title": "Commercial User Mgmt Internal Secure",
+		"version": "1.0.SIT08.RC5",
+		"productId": "613a2a65e4b0c7f71c71af89",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/613a2a65e4b0c7f71c71af89",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "8d83e44d3e7d612b803082204d36278c",
+		"partitionKey": "Shared Product",
+		"name": "dre-eplus-adapter-service",
+		"title": "DRE EPlus Adapter Service",
+		"version": "2.0.0",
+		"productId": "603689b5e4b073df65a5e14c",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/603689b5e4b073df65a5e14c",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "abeb90ed15dcf3afe7320de144e7357b",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "credit-risk-decisioning",
+		"title": "Credit Risk Decisioning",
+		"version": "1.0.0",
+		"productId": "603519cbe4b073df65a43b0e",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/603519cbe4b073df65a43b0e",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "2a8b981937f0895b7175af54c526aad9",
+		"partitionKey": "Payments",
+		"name": "falcon-debit-nonmonetary-events-product",
+		"title": "Falcon Debit Nonmonetary Events",
+		"version": "2.0.sit07mock",
+		"productId": "5eff2684e4b0cab9278b826b",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5eff2684e4b0cab9278b826b",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "ac91084d426bfa7b512428a0065bea17",
+		"partitionKey": "Shared Product",
+		"name": "customer-party-relationships",
+		"title": "Customer Party Relationships",
+		"version": "1.0.1",
+		"productId": "5f2be9f0e4b0cab9279046a1",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f2be9f0e4b0cab9279046a1",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "5be44167b11b2ae962f23c3fb5499831",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-contact-point",
+		"title": "Customer Contact Point",
+		"version": "1.1.1",
+		"productId": "5f48fb94e4b04ce081591140",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f48fb94e4b04ce081591140",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "f48391f29aa21a8bc555540b7cd5adfa",
+		"partitionKey": "Customer",
+		"name": "customer-contact-point",
+		"title": "Customer Contact Point",
+		"version": "1.1.0",
+		"productId": "5f48fae8e4b0d1997ea76702",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f48fae8e4b0d1997ea76702",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Customer",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "3de21cf78bf34bd2b1ea2086df313cb3",
+		"partitionKey": "Finance",
+		"name": "customer-contact-point",
+		"title": "Customer Contact Point",
+		"version": "1.1.0",
+		"productId": "5f48fae8e4b0d1997ea76702",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f48fae8e4b0d1997ea76702",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Customer",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "9fc4bbec6eb34cda6945db5be07f996e",
+		"partitionKey": "Payments",
+		"name": "customer-telephone",
+		"title": "Customer Telephone",
+		"version": "1.1.1",
+		"productId": "5f492b75e4b04ce081594465",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f492b75e4b04ce081594465",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "1d513f12167e71ac40af8ef694db4851",
+		"partitionKey": "Payments",
+		"name": "payment-access-services-faster-payments-product",
+		"title": "Payment Access Services - Faster Payments Product",
+		"version": "1.03",
+		"productId": "6155d046e4b0c7f71d0e4efe",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6155d046e4b0c7f71d0e4efe",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "c998ab3a6d15aec58ffdd6df540dd6fd",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "lloyds-bilateral-payment-status-internal-api",
+		"title": " Lloyds Bilateral Payment Status Enterprise Product",
+		"version": "1.0.0",
+		"productId": "60d30f99e4b045af884605c5",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60d30f99e4b045af884605c5",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "8fce1e7446f4398a68cd8e95dee086d3",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-telephone",
+		"title": "Customer Telephone",
+		"version": "1.2.1",
+		"productId": "60521bf9e4b09d9bb41470d2",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60521bf9e4b09d9bb41470d2",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "3a874682185570c8c2fb5d52f8099fce",
+		"partitionKey": "Data & Analytics",
+		"name": "lloyds-bilateral-international-payment-enterprise-product",
+		"title": "Lloyds Bilateral International Payment Enterprise Product",
+		"version": "3.0.0",
+		"productId": "60c090a1e4b045af88415e2c",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60c090a1e4b045af88415e2c",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "ff176418764f500c6b817d8f3d7a17a5",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "customer-communication-channel",
+		"title": "Customer Communication Channel",
+		"version": "1.0.0",
+		"productId": "5fa11a68e4b09ac49e08e463",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fa11a68e4b09ac49e08e463",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "711d1d315cd2080e3e264dfc8eb85ff1",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "lloyds-bilateral-close-account-enterprise-product",
+		"title": "Lloyds Bilateral Close Account Enterprise Product",
+		"version": "1.0.0",
+		"productId": "61544ef7e4b0c7f71d04de39",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/61544ef7e4b0c7f71d04de39",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "dbaa23ca6803ce56ce12f06d19bce9b1",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "webhook-int",
+		"title": "Webhook Internal Product",
+		"version": "1.0.0",
+		"productId": "609a9f01e4b09d9bb4285d31",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/609a9f01e4b09d9bb4285d31",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "fc7648311f1292a337069e93f8497230",
+		"partitionKey": "Support Functions",
+		"name": "ecomm-non-mon-processing-product",
+		"title": "Ecomm Non Mon Processing Product",
+		"version": "1.0.SIT08",
+		"productId": "5f58f729e4b09ac49dfbb5d1",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5f58f729e4b09ac49dfbb5d1",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "27b75d56a290249b7223a6f0daee1563",
+		"partitionKey": "Risks",
+		"name": "falcon-debit-nonmonetary-events-product",
+		"title": "Falcon Debit Nonmonetary Events",
+		"version": "v4.0.test1",
+		"productId": "609bd357e4b045af88372e0d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/609bd357e4b045af88372e0d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "4d9f265522cf8eb9b41f3275be1e1984",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "bilateral-domestic-payment-enterprise-product",
+		"title": "Lloyds Bilateral Domestic Payment Enterprise Product",
+		"version": "2.0.0",
+		"productId": "5fd23bbee4b054f2b729d356",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fd23bbee4b054f2b729d356",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "8c45fd7bdc315ced309248af26bff8df",
+		"partitionKey": "Payments",
+		"name": "user-mgmt-secure-api",
+		"title": "User Mgmt Internal Secure Product",
+		"version": "1.0.SIT08.RC5",
+		"productId": "6139ecdbe4b097f299908473",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6139ecdbe4b097f299908473",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "e79c6c7c2fb17f6c27336d264405f89c",
+		"partitionKey": "Cash Management & Working Capital",
+		"name": "customer-party-service-needs",
+		"title": "Customer Party Service Needs",
+		"version": "1.2.0",
+		"productId": "5fd0d148e4b06db4195edcf3",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fd0d148e4b06db4195edcf3",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Cash Management & Working Capital"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "b8bbbde32c81e2f9772eb4517476695e",
+		"partitionKey": "Risks",
+		"name": "bilateral-transaction-enterprise-product",
+		"title": "Lloyds Bilateral Transaction Enterprise Product",
+		"version": "4.0.0",
+		"productId": "60e56471e4b045af8848b53a",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60e56471e4b045af8848b53a",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "06bff874fd4ce61d23ae361a91c1e202",
+		"partitionKey": "Finance",
+		"name": "user-mgmt-secure-api",
+		"title": "User Mgmt Internal Secure Product",
+		"version": "1.0.SIT08.RC5",
+		"productId": "6139ecdbe4b097f299908473",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6139ecdbe4b097f299908473",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "0e86333334c8b74d11fc1c39894a1e6c",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "appsign-service-product",
+		"title": "Appsign Service Product",
+		"version": "1.0.ASLIVE",
+		"productId": "6062d42ae4b09d9bb4191f8a",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6062d42ae4b09d9bb4191f8a",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"BOS"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "75f79a7d5d11adceb5bf7036fe438908",
+		"partitionKey": "Data & Analytics",
+		"name": "dre-eplus-adapter-service",
+		"title": "DRE EPlus Adapter Service",
+		"version": "1.0.0",
+		"productId": "60192dfde4b06db41970ff05",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60192dfde4b06db41970ff05",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056912015
+	},
+	{
+		"id": "6834379d48ba4fec7e365f39cdfae718",
+		"partitionKey": "Support Functions",
+		"name": "customer-product-holdings",
+		"title": "Customer Product Holdings",
+		"version": "1.2.3",
+		"productId": "60420a39e4b09d9bb40f2d61",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60420a39e4b09d9bb40f2d61",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "8b54b3c58e5931be856aada6bc31c192",
+		"partitionKey": "Shared Product",
+		"name": "self-serve-management-internal-gateway-product",
+		"title": "self-serve-management-internal-gateway-product",
+		"version": "1.0.0",
+		"productId": "604247d6e4b09d9bb40f3812",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/604247d6e4b09d9bb40f3812",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "6355fafbc98195315e3663a9769f38f2",
+		"partitionKey": "Finance",
+		"name": "self-serve-management-internal-gateway-product",
+		"title": "self-serve-management-internal-gateway-product",
+		"version": "1.0.0",
+		"productId": "604247d6e4b09d9bb40f3812",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/604247d6e4b09d9bb40f3812",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "53ea78bdbb053c8ab9b8481e7969ee78",
+		"partitionKey": "Shared Product",
+		"name": "bilateral-statement-enterprise-product",
+		"title": "Lloyds Bilateral Statement Enterprise Product",
+		"version": "3.0.0",
+		"productId": "5fa518f3e4b06db4193f5f42",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fa518f3e4b06db4193f5f42",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "40433255750e3ace330f3c0d15408d85",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "bilateral-transaction-enterprise-product",
+		"title": "Lloyds Bilateral Transaction Enterprise Product",
+		"version": "3.0.0",
+		"productId": "600716a1e4b066bd60b13be0",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/600716a1e4b066bd60b13be0",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "f0ae4afcaa21fb3f024dfce1b2d78090",
+		"partitionKey": "Payments",
+		"name": "customer-postal-address",
+		"title": "Customer Postal Address",
+		"version": "2.2.0",
+		"productId": "60702b37e4b045af88299b88",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60702b37e4b045af88299b88",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "3182a97f4e9aa7ff94004a815382cc37",
+		"partitionKey": "Shared Product",
+		"name": "customer-individual",
+		"title": "Customer Individual",
+		"version": "1.2.0",
+		"productId": "602f91d4e4b09d9bb4050b30",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/602f91d4e4b09d9bb4050b30",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Shared Product"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"BOS",
+			"Halifax"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "0d5e24ee0a6118e761871308ccfd9570",
+		"partitionKey": "Risks",
+		"name": "customer-individual",
+		"title": "Customer Individual",
+		"version": "1.0.2",
+		"productId": "629781b3e4b097f2a1a68944",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/629781b3e4b097f2a1a68944",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "772c372f956ea05c4594da9c64189374",
+		"partitionKey": "Finance",
+		"name": "customer-individual",
+		"title": "Customer Individual",
+		"version": "1.0.2",
+		"productId": "629781b3e4b097f2a1a68944",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/629781b3e4b097f2a1a68944",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "4bd45930a4aa96b7713a68b3a8c64d9d",
+		"partitionKey": "Economic Crime Prevention",
+		"name": "customer-consent-preferences",
+		"title": "Customer Consent Preferences",
+		"version": "2.0.0",
+		"productId": "601d3713e4b066bd60b80987",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/601d3713e4b066bd60b80987",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Economic Crime Prevention"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "142ef0a598c8523bf6b2566d888e3f19",
+		"partitionKey": "Support Functions",
+		"name": "customer-party-identifiers",
+		"title": "Customer Party Identifiers",
+		"version": "1.6.0",
+		"productId": "601d3d0de4b066bd60b82e30",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/601d3d0de4b066bd60b82e30",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "8c4fd59795e936aaff575462104546c6",
+		"partitionKey": "Payments",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "3.5.sit10.rc6",
+		"productId": "61f92d8ce4b0c7f720bd9cff",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/61f92d8ce4b0c7f720bd9cff",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA",
+			"Halifax"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "63de4c8727f048af6e4f684b6a4e2cfd",
+		"partitionKey": "Data & Analytics",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.3.SIT09_SIT02.RC3",
+		"productId": "6130cabde4b097f2995e8c02",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6130cabde4b097f2995e8c02",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "bf1eae313315637131dc5687d74c2ae6",
+		"partitionKey": "Support Functions",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.2.SIT08.RC2",
+		"productId": "60799f4de4b045af882bb645",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/60799f4de4b045af882bb645",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Support Functions"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"MBNA"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "faf81116144b9cfea9b0592f2ca75237",
+		"partitionKey": "Finance",
+		"name": "crypto-product",
+		"title": "Crypto Product",
+		"version": "1.3.SIT09_SIT02.RC3",
+		"productId": "6130cabde4b097f2995e8c02",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6130cabde4b097f2995e8c02",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Data & Analytics",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"BOS"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "5b67b091688a736621a58fd8aac34f53",
+		"partitionKey": "Corporate & Institutional Banking",
+		"name": "pqs-product-plan",
+		"title": "pqs product Plan",
+		"version": "1.0.1",
+		"productId": "6050e311e4b073df65b0724d",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6050e311e4b073df65b0724d",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Corporate & Institutional Banking"
+			],
+			"l1": [
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Tax",
+				"Statutory Reporting"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "8d4cf8978bc155f6c46f602b9913f56f",
+		"partitionKey": "Risks",
+		"name": "party-identifiers",
+		"title": "Party Identifiers",
+		"version": "1.1",
+		"productId": "5fb7a865e4b054f2b70b5cde",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fb7a865e4b054f2b70b5cde",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "3bb62b29d43310a5ca716c1169b6bae5",
+		"partitionKey": "Finance",
+		"name": "party-identifiers",
+		"title": "Party Identifiers",
+		"version": "1.1",
+		"productId": "5fb7a865e4b054f2b70b5cde",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/5fb7a865e4b054f2b70b5cde",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Risks",
+				"Finance"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital",
+				"Financial Control",
+				"Reporting & Oversight"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product",
+				"Tax",
+				"Statutory Reporting"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"MBNA"
+		],
+		"updatedAt": 1663056913372
+	},
+	{
+		"id": "1f5c7dccf785850b1a242fe8d9143d89",
+		"partitionKey": "Payments",
+		"name": "customer-party-service-needs",
+		"title": "Customer Party Service Needs",
+		"version": "2.1.0",
+		"productId": "6165600de4b097f29a85a0c8",
+		"url": "https://apic-mgt-rtl.service.group/v1/portal/orgs/62cc0785e4b097f2a2df8423/products/6165600de4b097f29a85a0c8",
+		"apiCount": 1,
+		"gatewayPlatform": "apic-v5",
+		"gatewayType": "openbankingRed",
+		"regulatory": true,
+		"tenant": "Tenant to which the API provider is member of",
+		"valueStream": "Value stream to which the API provider is member of",
+		"lbgDomains": {
+			"l0": [
+				"Payments"
+			],
+			"l1": [
+				"Client Servicing & Engagement",
+				"Cash Management & Working Capital"
+			],
+			"l2": [
+				"Client Monies Product",
+				"Cash Management Product"
+			],
+			"l3": [
+				"Liquidity",
+				"Partner Banking Product",
+				"Corporate Cards Product"
+			]
+		},
+		"apiConsumer": [
+			"public"
+		],
+		"apiCategory": [
+			"Experience"
+		],
+		"apiType": [
+			"REST"
+		],
+		"businessLine": [
+			"Retail & Business Bank"
+		],
+		"brand": [
+			"Lloyds Bank",
+			"Halifax"
+		],
+		"updatedAt": 1663056913372
+	}
+]

@@ -1,0 +1,9 @@
+const STATUS400 = 400;
+const STATUS500 = 500;
+const STATUS404 = 404;
+const ERRORMSG400 = "400Error";
+const ERRORMSG500 = "500Error";
+const ERRORMSG404 = "404Error";
+const ERROR404 ="400 Error Bad request";
+
+module.exports = { STATUS400, ERRORMSG400, STATUS500, ERRORMSG500,STATUS404,ERRORMSG404,ERROR404 };

@@ -1,0 +1,17 @@
+{
+  "400Error": {
+    "code": 400,
+    "reasonCode": "400",
+    "message": "Bad Request"
+  },
+  "500Error": {
+    "code": 500,
+    "reasonCode": "500",
+    "message": "Internal Server Error"
+  },
+  "404Error": {
+    "code": 404,
+    "reasonCode": "404",
+    "message": "Page not found"
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "lbgDomains": {
+      "L0": [
+        "Corporate & Institutional Banking"
+      ],
+      "L1": [
+        [
+          "Client Servicing & Engagement",
+          "Cash Management & Working Capital"
+        ]
+      ],
+      "L2": [
+        [
+          "Client Monies Product",
+          "Cash Management Product"
+        ]
+      ],
+      "L3": [
+        [
+          "Liquidity",
+          "Partner Banking Product",
+          "Corporate Cards Product"
+        ]
+      ]
+    },
+    "businessLines": [
+      "Retail & Business Bank"
+    ],
+    "valueStream": "string",
+    "tenant": "string",
+    "brands": [
+      "Lloyds Bank"
+    ],
+    "regulatory": true,
+    "apiConsumers": [
+      "public"
+    ],
+    "apiCategories": [
+      "Experience"
+    ],
+    "apiTypes": [
+      "REST"
+    ],
+    "apiCount": 2,
+    "url": "https://example/v1/portal/orgs/60ae2866e4b04e4c57f6c7d1/products/62fca61ce4b0dc3cd6c370ed",
+    "gatewayPlatform": "apic-v5",
+    "gatewayType": "openbankingRed",
+    "name": "omestic-standing-orders-hfx",
+    "title": "Domestic Standing Orders APIs (Halifax)",
+    "version": "3.1.6",
+    "id": "0bae3283b08ef728318e9c62c5367e8c",
+    "productId": "0bae3283b08ef728318e9c62c5367e8c"
+  }

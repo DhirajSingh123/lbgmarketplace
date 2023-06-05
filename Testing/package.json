@@ -1,0 +1,11 @@
+{
+  "name": "clienttesting",
+  "version": "1.0.0",
+  "description": "dummy purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhiraj singh",
+  "license": "ISC"
+}
